@@ -1,0 +1,12 @@
+{
+  "name": "tailwind-starter",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "postcss styles.css -o dist/styles.css"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.2.5",
+    "postcss": "^8.2.15",
+    "tailwindcss": "^2.1.2"
+  }
+}
